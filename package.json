@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-criptografia-e-tokens-jwt",
+  "version": "1.0.0",
+  "description": "# Origens da Criptografia:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafiere/course_alura_nodejs-criptografia-e-tokens-jwt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafiere/course_alura_nodejs-criptografia-e-tokens-jwt/issues"
+  },
+  "homepage": "https://github.com/Rafiere/course_alura_nodejs-criptografia-e-tokens-jwt#readme",
+  "type": "module"
+}
