@@ -17,5 +17,8 @@
     "url": "https://github.com/Rafiere/course_alura_nodejs-criptografia-e-tokens-jwt/issues"
   },
   "homepage": "https://github.com/Rafiere/course_alura_nodejs-criptografia-e-tokens-jwt#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
 }
